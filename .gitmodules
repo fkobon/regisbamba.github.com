@@ -1,0 +1,3 @@
+[submodule "lois-db"]
+	path = lois-db
+	url = git@github.com:regisbamba/lois-db.git
