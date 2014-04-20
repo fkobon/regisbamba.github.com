@@ -25,9 +25,9 @@ Il est important en développant nos applications de répondre à un besoin. Il 
 <p><img src="/generated/stories/orange-slide-3-250x141-863e88.png" class="callout_right" itemprop="image" > N&#39;ayez pas peur d&#39;être original. N&#39;ayez pas peur d&#39;être fou. Seuls les fous font avancer le monde. Edison était fou. Steve Jobs l&#39;était aussi.
 Distinguez-vous des autres, essayez des choses qui sortent de l&#39;ordinaire.</p>
 
-<h2>4. Etre concret.</h2>
+<h2>4. Etre pragmatique.</h2>
 
-<p><img src="/generated/stories/orange-slide-4-250x141-b01a51.png" class="callout_right" itemprop="image" > Tout en étant fou, il est important de rester concret dans ses œuvres.
+<p><img src="/generated/stories/orange-slide-4-250x141-b01a51.png" class="callout_right" itemprop="image" > Tout en étant fou, il est important de rester pragmatique dans ses œuvres.
 Si un utilisateur a besoin de se rendre de Cocody à Abobo et que vous lui proposez une navette spatiale alors que votre concurrent lui propose un vélo, vous le perdrez.
 Non seulement la navette mettra plus de temps à être fabriquée, mais elle sera difficile à utiliser. Il est important de tenir compte de l&#39;environnement et du contexte.</p>
 
