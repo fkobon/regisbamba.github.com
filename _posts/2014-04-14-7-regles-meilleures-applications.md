@@ -5,53 +5,44 @@ thumb : /public/img/stories/orange-hackaton-2014.jpg
 description : Le samedi 12 Avril 2014, j'ai été invité par Orange Côte d'Ivoire à la cérémonie de lancement de leur Hackaton 2014. Ce Hackaton qui durera un mois, mettra en compétition les meilleurs étudiants ingénieurs de l'Institut Nationale Polytechnique - Houphouët Boigny (L'une des plus prestigieuses &eacute;coles de Côte d'Ivoire). Mon rôle était de faire un retour d'expérience à ces étudiants et de leur expliquer comment j'arrivais à faire des applications "populaires". Pour la cause, j'ai donc rédigé une liste de 7 r&egrave;gles que j'ai apprises tout au long de mon aventure.
 ---
 
-{% image post_excerpt_img stories/orange-hackaton-2014.jpg alt="Hackaton Orange 2014" %} Le samedi 12 Avril 2014, j'ai été invité par [Orange Côte d'Ivoire](http://www.orange.ci/) à la cérémonie de lancement de leur Hackaton 2014. Ce Hackaton qui durera un mois, mettra en compétition les meilleurs étudiants ingénieurs de l'Institut Nationale Polytechnique - Houphouët Boigny (L'une des plus prestigieuses &eacute;coles de Côte d'Ivoire).
+<p><img src="/generated/stories/orange-hackaton-2014-150x150-520064.jpg" class="callout" itemprop="image" alt="Hackaton Orange 2014" > Le samedi 12 Avril 2014, j&#39;ai été invité par <a href="http://www.orange.ci/">Orange Côte d&#39;Ivoire</a> à la cérémonie de lancement de leur Hackaton 2014. Ce Hackaton qui durera un mois, mettra en compétition les meilleurs étudiants ingénieurs de l&#39;Institut Nationale Polytechnique - Houphouët Boigny (L&#39;une des plus prestigieuses &eacute;coles de Côte d&#39;Ivoire).</p>
 
-Mon rôle était de faire un retour d'expérience à ces étudiants et de leur expliquer comment j'arrivais à faire des applications "[populaires](https://play.google.com/store/search?q=intelgeo&c=apps)".
-Pour la cause, j'ai donc rédigé une liste de 7 r&egrave;gles que j'ai apprises tout au long de mon aventure.
+<p>Mon rôle était de faire un retour d&#39;expérience à ces étudiants et de leur expliquer comment j&#39;arrivais à faire des applications &quot;<a href="https://play.google.com/store/search?q=intelgeo&amp;c=apps">populaires</a>&quot;.
+Pour la cause, j&#39;ai donc rédigé une liste de 7 r&egrave;gles que j&#39;ai apprises tout au long de mon aventure.</p>
 
-1. Rester humble.
------------------
+<h2>1. Rester humble.</h2>
 
-{% image post_content_img_right stories/orange-slide-1.png %} Rester humble est la condition sine qua non au développement personnel. Rester humble signifie être réaliste et comprendre que nous avons des limites et des faiblesses. Il n'y a qu'en réalisant cela que nous pouvons être capable de progresser.
-A vrai dire, même lorsque vous êtes le meilleur au monde dans un domaine, il y'a toujours une personne qui a le potentiel de vous surpasser : vous-même. Ce "vous-même" qui reste humble et qui réalise qu'il peut faire mieux.
+<p><img src="/generated/stories/orange-slide-1-250x141-f7a5c6.png" class="callout_right" itemprop="image" > Rester humble est la condition sine qua non au développement personnel. Rester humble signifie être réaliste et comprendre que nous avons des limites et des faiblesses. Il n&#39;y a qu&#39;en réalisant cela que nous pouvons être capable de progresser.
+A vrai dire, même lorsque vous êtes le meilleur au monde dans un domaine, il y&#39;a toujours une personne qui a le potentiel de vous surpasser : vous-même. Ce &quot;vous-même&quot; qui reste humble et qui réalise qu&#39;il peut faire mieux.</p>
 
-2. Répondre &agrave; un besoin.
-------------------------
+<h2>2. Répondre &agrave; un besoin.</h2>
 
-{% image post_content_img_right stories/orange-slide-2.png %} Nous développeurs, avons tendance à nous croire plus intelligents que les autres (non développeurs). La vérité est que bien souvent nous vivons dans une bulle, déconnectés de la réalité. Nous sommes tellement déconnectés du reste du monde que nous sommes incapables de le comprendre et répondre ses besoins.
-Il est important en développant nos applications de répondre à un besoin. Il est important d'évaluer la demande, la concurrence et d'offrir un produit qui intéressera les utilisateurs.
+<p><img src="/generated/stories/orange-slide-2-250x141-20cfbb.png" class="callout_right" itemprop="image" > Nous développeurs, avons tendance à nous croire plus intelligents que les autres (non développeurs). La vérité est que bien souvent nous vivons dans une bulle, déconnectés de la réalité. Nous sommes tellement déconnectés du reste du monde que nous sommes incapables de le comprendre et répondre ses besoins.
+Il est important en développant nos applications de répondre à un besoin. Il est important d&#39;évaluer la demande, la concurrence et d&#39;offrir un produit qui intéressera les utilisateurs.</p>
 
-3. Etre original.
------------------
+<h2>3. Etre original.</h2>
 
-{% image post_content_img_right stories/orange-slide-3.png %} N'ayez pas peur d'être original. N'ayez pas peur d'être fou. Seuls les fous font avancer le monde. Edison était fou. Steve Jobs l'était aussi.
-Distinguez-vous des autres, essayez des choses qui sortent de l'ordinaire.
+<p><img src="/generated/stories/orange-slide-3-250x141-863e88.png" class="callout_right" itemprop="image" > N&#39;ayez pas peur d&#39;être original. N&#39;ayez pas peur d&#39;être fou. Seuls les fous font avancer le monde. Edison était fou. Steve Jobs l&#39;était aussi.
+Distinguez-vous des autres, essayez des choses qui sortent de l&#39;ordinaire.</p>
 
+<h2>4. Etre concret.</h2>
 
-4. Etre concret.
-----------------
-
-{% image post_content_img_right stories/orange-slide-4.png %} Tout en étant fou, il est important de rester concret dans ses œuvres.
+<p><img src="/generated/stories/orange-slide-4-250x141-b01a51.png" class="callout_right" itemprop="image" > Tout en étant fou, il est important de rester concret dans ses œuvres.
 Si un utilisateur a besoin de se rendre de Cocody à Abobo et que vous lui proposez une navette spatiale alors que votre concurrent lui propose un vélo, vous le perdrez.
-Non seulement la navette mettra plus de temps à être fabriquée, mais elle sera difficile à utiliser. Il est important de tenir compte de l'environnement et du contexte.
+Non seulement la navette mettra plus de temps à être fabriquée, mais elle sera difficile à utiliser. Il est important de tenir compte de l&#39;environnement et du contexte.</p>
 
+<h2>5. Miser sur le design.</h2>
 
-5. Miser sur le design.
------------------------
+<p><img src="/generated/stories/orange-slide-5-250x141-53c7bb.png" class="callout_right" itemprop="image" > J&#39;ai lu ceci sur Facebook: &quot;le marketing est une bataille de perception&quot;. Pensez-y.
+Même si votre offre est locale, elle est en compétition avec des millions d&#39;applications globales au design épuré.
+Dans ce monde applicatif et hyper-connecté, négligez votre design et vous aurez du mal à retenir ou même à appâter des utilisateurs dont l&#39;attention est déjà très réduite.</p>
 
-{% image post_content_img_right stories/orange-slide-5.png %} J'ai lu ceci sur Facebook: "le marketing est une bataille de perception". Pensez-y.
-Même si votre offre est locale, elle est en compétition avec des millions d'applications globales au design épuré.
-Dans ce monde applicatif et hyper-connecté, négligez votre design et vous aurez du mal à retenir ou même à appâter des utilisateurs dont l'attention est déjà très réduite.
+<h2>6. Faire du story-telling.</h2>
 
-6. Faire du story-telling.
---------------------------
+<p><img src="/generated/stories/orange-slide-6-250x141-59d917.png" class="callout_right" itemprop="image" > Ce conseil, je le tiens directement d&#39;un <a href="https://www.facebook.com/franckbaye">ami</a>. En marketing, le story-telling consiste à communiquer par l’intermédiaire d’une histoire, pour capter l’attention de l&#39;utilisateur et créer une connexion émotionnelle avec votre produit.
+Faites en usage dans la promotion de vos applications. Et j&#39;ajouterais ceci : dans votre histoire, assurez-vous que l&#39;utilisateur y tient le rôle de héros.</p>
 
-{% image post_content_img_right stories/orange-slide-6.png %} Ce conseil, je le tiens directement d'un [ami](https://www.facebook.com/franckbaye). En marketing, le story-telling consiste à communiquer par l’intermédiaire d’une histoire, pour capter l’attention de l'utilisateur et créer une connexion émotionnelle avec votre produit.
-Faites en usage dans la promotion de vos applications. Et j'ajouterais ceci : dans votre histoire, assurez-vous que l'utilisateur y tient le rôle de héros.
+<h2>7. Etre humain.</h2>
 
-7. Etre humain.
----------------
-
-{% image post_content_img_right stories/orange-slide-7.png %} Ecrire du code nous rend insensible. N'oublions pas que nos utilisateurs ne sont pas des machines, mais des êtres qui ressentent des émotions.
-Prenons le temps d'observer notre environnement et les interactions entre les personnes. Nous pourrons en tirer de belles leçons.
+<p><img src="/generated/stories/orange-slide-7-250x141-c9fcd8.png" class="callout_right" itemprop="image" > Ecrire du code nous rend insensible. N&#39;oublions pas que nos utilisateurs ne sont pas des machines, mais des êtres qui ressentent des émotions.
+Prenons le temps d&#39;observer notre environnement et les interactions entre les personnes. Nous pourrons en tirer de belles leçons.</p>
