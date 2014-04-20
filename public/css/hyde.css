@@ -265,7 +265,7 @@ img.callout {
 }
 
 img.callout_right {
-    width : 250px;
+    width : 200px;
     float : right;
     margin-left : 10px;
     border : 1px solid #ddd;
