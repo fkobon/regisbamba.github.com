@@ -54,7 +54,7 @@ Le prix
 Au vu de tout ce qui vient d’être dit, vous vous demandez certainement le prix de ce téléphone. Et bien, Samsung recommande aux revendeurs de ne pas le vendre à plus de **420.000FCFA**.  
 
 ### Plan de financement
-Samsung Côte d’Ivoire s’est associé avec des partenaires pour permettre aux ivoiriens de posséder ce téléphone en payant sur plusieurs échéances. Ces partenaires sont la Caisse d’épargne, Equiplus, [PDAStore](http://www.pdastore.ci). Ainsi vous pourrez déboursez seulement 40.500FCFA pendant 12 mois pour vous offrir ce bijou. Malheureusement d'ici là, que vous finissiez de payer, le Galaxy S6 sera déjà sorti.
+Samsung Côte d’Ivoire s’est associé avec des partenaires pour permettre aux ivoiriens de posséder ce téléphone en payant sur plusieurs échéances. Ces partenaires sont la Caisse d’épargne, Equiplus, [PDAStore](http://www.pdastore.ci). Ainsi vous débourserez seulement 40.500FCFA pendant 12 mois pour vous offrir ce bijou. Malheureusement d'ici à ce que vous finissiez de payer, le Galaxy S6 sera déjà sorti.
 
 <!--
 ## Conclusion
