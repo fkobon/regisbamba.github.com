@@ -56,11 +56,12 @@ Au vu de tout ce qui vient d’être dit, vous vous demandez certainement le pri
 ### Plan de financement
 Samsung Côte d’Ivoire s’est associé avec des partenaires pour permettre aux ivoiriens de posséder ce téléphone en payant sur plusieurs échéances. Ces partenaires sont la Caisse d’épargne, Equiplus, [PDAStore](http://www.pdastore.ci). Ainsi vous pourrez déboursez seulement 40.500FCFA pendant 12 mois pour vous offrir ce bijou. Malheureusement d'ici là, que vous finissiez de payer, le Galaxy S6 sera déjà sorti.
 
-
+<!--
 ## Conclusion
 Au finish, je retiens deux éléments qui me plaisent bien : l’appareil photo et le mode ultra économie de la batterie. Mais je commence à être deçu de Samsung en général, qui chaque année nous bombarde de marketing, sans vraiment rien ajouter d'innovant et surtout de pertinent pour nous Africains.
 
 Si vous avez 400.000FCFA à dépenser sur un téléphone, je vous conseille de patienter afin de voir si d'autres marques sortiront quelque chose de meilleur d'ici quelques mois avant de faire votre choix.
+-->
 
 Pour les techies, qui souhaitent en savoir plus sur les spécifications, retrouvez le Samsung Galaxy S5 sur [PDAStore](http://shop.pdastoreci.com/epages/265339.sf/fr_FR/?ObjectPath=/Shops/265339/Products/GT-I9525).
 
