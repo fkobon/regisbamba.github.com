@@ -15,7 +15,7 @@ La version du Galaxy S5 présente à Abidjan a donc été spécialement adaptée
 Des applications pré-chargées
 ----------------------------------------
 ![Applications ]({{site.url}}/public/img/stories/galaxy-s5-4.jpg)
-Si vous avez déjà acheté un smartphone Samsung, vous avez probablement remarqué cette particularité qu'a Samsung à bourrer le téléphone d'applications par défaut (bien souvent inutiles et impossibles à désinstaller).
+Si vous avez déjà acheté un smartphone Samsung, vous avez probablement remarqué cette particularité qu'a Samsung à bourrer le téléphone d'applications par défaut (qui sont bien souvent inutiles et impossible à désinstaller).
 Et bien le Galaxyy S5 ne fait pas exception à cette règle puisqu'il contient par défaut un ensemble d'applications pré-chargées pour une valeur de **500.000FCFA**.
 
 Ce que je déplore le plus, c'est le fait qu'aucune application locale n’ait été intégrée. Comment comprendre qu'un téléphone dit "fait pour l'Afrique", n'intègre aucun contenu local ?
