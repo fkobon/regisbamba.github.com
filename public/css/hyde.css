@@ -278,3 +278,7 @@ img.callout_right {
 .post-title {
     margin-bottom : 25px;
 }
+
+.post p {
+	text-align : justify;
+}
